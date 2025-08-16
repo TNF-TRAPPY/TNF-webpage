@@ -1,4 +1,5 @@
 function saysomething () {
-    alert ("WELCOME TO THE MY PAGE.")
+    alert ("WELCOME TO MY PAGE.")
 }
+
 saysomething ()
